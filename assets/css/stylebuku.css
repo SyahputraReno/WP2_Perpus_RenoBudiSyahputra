@@ -1,0 +1,123 @@
+body{
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> a31abbbf437658c6366484e228803dbb584f22f1
+>>>>>>> 782962b061496b7a43f2fb16ec6482b5caf8326d
+>>>>>>> c9de910 (Pertemuan 9 dan 10)
+    background: #eee;
+    color: #333;
+    font-family: sans-serif;
+    font-size:15px;
+   }
+   #wrapper{
+    background: #fff;
+    width: 1100px;
+    margin: 20px auto;
+   }
+   #wrapper header{
+    background: #232323;
+    padding: 20px;
+   }
+   #wrapper header hgroup{
+    float: left;
+    color: #fff;
+   }
+   #wrapper header nav{
+    float: right;
+    margin-top: 50px;
+   }
+   #wrapper header nav ul{
+    padding: 0;
+    margin: 0;
+   }
+   #wrapper header nav ul li{
+    float: left;
+    list-style: none;
+   }
+   #wrapper header nav ul li a{
+    padding: 15px;
+    color: #fff;
+    text-decoration: none;
+   }
+   .clear{
+    clear: both;
+   }
+   footer{
+    background: #232323;
+    padding: 20px;
+   }
+   footer a{
+    color: #fff;
+    text-decoration: none;
+   }
+   section{
+    padding: 20px;
+<<<<<<< HEAD
+   }
+=======
+<<<<<<< HEAD
+   }
+=======
+<<<<<<< HEAD
+   }
+=======
+   }
+=======
+  background: #eee;
+  color: #333;
+  font-family: sans-serif;
+  font-size:15px;
+ }
+ #wrapper{
+  background: #fff;
+  width: 1100px;
+  margin: 20px auto;
+ }
+ #wrapper header{
+  background: #232323;
+  padding: 20px;
+ }
+ #wrapper header hgroup{
+  float: left;
+  color: #fff;
+ }
+ #wrapper header nav{
+  float: right;
+  margin-top: 50px;
+ }
+ #wrapper header nav ul{
+  padding: 0;
+  margin: 0;
+ }
+ #wrapper header nav ul li{
+  float: left;
+  list-style: none;
+ }
+ #wrapper header nav ul li a{
+  padding: 15px;
+  color: #fff;
+  text-decoration: none;
+ }
+ .clear{
+  clear: both;
+ }
+ footer{
+  background: #232323;
+  padding: 20px;
+ }
+ footer a{
+  color: #fff;
+  text-decoration: none;
+ }
+ section{
+  padding: 20px;
+ } 
+>>>>>>> e33d9147780c8c312a99eb4fbc913499708c431f
+>>>>>>> a31abbbf437658c6366484e228803dbb584f22f1
+>>>>>>> 782962b061496b7a43f2fb16ec6482b5caf8326d
+>>>>>>> c9de910 (Pertemuan 9 dan 10)
