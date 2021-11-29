@@ -18,10 +18,16 @@
     Master Data
   </div>
 
+  <li class="nav-item">
+    <a class="nav-link pb-0" href="<?= base_url('buku/kategori'); ?>">
+      <i class="fa fa-fw fa book"></i>
+      <span>Kategori Buku</span></a>
+  </li>
+
   <!-- Nav Item - Charts -->
-  <li class="nav-item active">
-    <a class="nav-link" href="<?= base_url('buku'); ?>">
-      <i class="fas fa-fw fa-book"></i>
+  <li class="nav-item">
+    <a class="nav-link pb-0" href="<?= base_url('buku'); ?>">
+      <i class="fa fa-fw fa book"></i>
       <span>Data Buku</span></a>
   </li>
 
